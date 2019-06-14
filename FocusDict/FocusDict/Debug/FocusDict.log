@@ -1,0 +1,7 @@
+﻿  AddForm.cpp
+  FocusDict.cpp
+C:\Users\VLG 139 LTT\Desktop\FocusDict\FocusDict\FocusDict.h(183,21): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\VLG 139 LTT\Desktop\FocusDict\FocusDict\FocusDict.h(187,22): warning C4018:  '<': signed/unsigned mismatch
+  AddForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FocusDict.vcxproj -> C:\Users\VLG 139 LTT\Desktop\FocusDict\Debug\FocusDict.exe

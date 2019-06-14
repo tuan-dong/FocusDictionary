@@ -1,0 +1,57 @@
+
+@dog
+*noun
+-cho
+=this is a dog
+-con di cho
+=this is a slum
+@box
+*noun
+-thung
+=beat box
+=list box
+-hop
+=boxing
+=boxings
+=a boxing
+=unboxing
+=
+@eat
+*verb
+-an
+=eat rice
+=eat chao be rau mang
+-an uong
+=eat drink
+@earn
+*verb
+-thu 
+=earn money
+@help
+*verb
+-cuu
+=help me
+@run
+*verb
+-chay
+=run now
+=run away
+@hand
+*noun
+-tay
+=shake hand
+=hand up
+=handy
+-ban tay
+=so handsome
+@green
+*adj
+-xanh
+=so green
+-xanh le
+=green earth
+@Tuan
+*noun
+-la ten nguoi
+=Tuan is my name
+=My name is Tuan

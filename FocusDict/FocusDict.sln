@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FocusDict", "FocusDict\FocusDict.vcxproj", "{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}.Debug|x64.ActiveCfg = Debug|x64
+		{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}.Debug|x64.Build.0 = Debug|x64
+		{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}.Debug|x86.ActiveCfg = Debug|Win32
+		{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}.Debug|x86.Build.0 = Debug|Win32
+		{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}.Release|x64.ActiveCfg = Release|x64
+		{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}.Release|x64.Build.0 = Release|x64
+		{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}.Release|x86.ActiveCfg = Release|Win32
+		{25D2CC73-AF0D-4ECB-AA0A-A636FA29A994}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F2EE57-5EB9-49D6-AA14-6B9D3875F6CC}
+	EndGlobalSection
+EndGlobal
